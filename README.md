@@ -1,8 +1,6 @@
 # Mobile-robot-simulator
 Mobile robot simulator in MATLAB
 
-Mobile robot simulator in MATLAB
-
 Features:
 
 Simple mobile robot simulator with bicycle dynamics
